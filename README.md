@@ -28,7 +28,7 @@ First six weeks after launch:
 |---|---|---|
 | 218 | 74 | $732 |
 
-Growth came from SEO pages, referrals and a creator program. No paid ads.
+Growth came mostly from SEO pages, plus referrals and a creator program.
 
 ---
 
