@@ -22,11 +22,11 @@ Plans: a free 15-minute trial, then Pro weekly, monthly, quarterly, yearly or li
 
 ## Results
 
-First six weeks after launch:
+As of November 2026, about six weeks after launch:
 
 | Users | Paying customers | Monthly recurring revenue |
 |---|---|---|
-| 218 | 74 | $732 |
+| 218 | 60 | $837 |
 
 Growth came mostly from SEO pages, plus referrals and a creator program.
 
