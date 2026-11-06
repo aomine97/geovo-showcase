@@ -20,7 +20,21 @@ Plans: a free 15-minute trial, then Pro weekly, monthly, quarterly, yearly or li
 
 ---
 
+## Results
+
+First six weeks after launch:
+
+| Users | Paying customers | Monthly recurring revenue |
+|---|---|---|
+| 218 | 74 | $732 |
+
+Growth came from SEO pages, referrals and a creator program. No paid ads.
+
+---
+
 ## How it's built
+
+![Geovo architecture](images/architecture.svg)
 
 | Layer | Technology |
 |---|---|
